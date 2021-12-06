@@ -1,0 +1,15 @@
+com/project/recommenderapp/BuildConfig.java
+ com.project.recommenderapp.BuildConfig
+com/project/recommenderapp/ListAdapterRestaurant.java
+ com.project.recommenderapp.ListAdapterRestaurant
+com/project/recommenderapp/retrofit/RetrofitClient.java
+ com.project.recommenderapp.retrofit.RetrofitClient
+com/project/recommenderapp/Restaurant.java
+ com.project.recommenderapp.Restaurant
+com/project/recommenderapp/retrofit/IUploadAPI.java
+ com.project.recommenderapp.retrofit.IUploadAPI
+com/project/recommenderapp/MainActivity.java
+ com.project.recommenderapp.MainActivity
+com/project/recommenderapp/ListActivity.java
+ com.project.recommenderapp.ListActivity
+ com.project.recommenderapp.ListActivity$1
